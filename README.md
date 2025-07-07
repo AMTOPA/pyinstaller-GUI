@@ -4,7 +4,7 @@ ENGLISH | <a href="README_zh.md">简体中文</a>
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/pyinstaller-GUI.svg?style=for-the-badge)](https://github.com/AMTOPA/pyinstaller-GUI/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS-blue?style=for-the-badge)](https://github.com/AMTOPA/pyinstaller-GUI)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)](https://github.com/AMTOPA/pyinstaller-GUI)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge)](https://github.com/AMTOPA/pyinstaller-GUI/graphs/commit-activity)
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-GUI-orange?style=for-the-badge&logo=python)](https://www.pyinstaller.org/)
 
